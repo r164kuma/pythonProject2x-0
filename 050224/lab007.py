@@ -1,0 +1,17 @@
+num1 = input("Enter the first Number")
+num2 = input("Enter the second Number")
+print(num1)
+print(num2)
+print(type(num1))
+num3 = int(num1) + int(num2)
+print(num3)
+
+num1 = input("Enter the first Number")
+num2 = input("Enter the second Number")
+print(num1)
+print(num2)
+print(type(num1))
+num3 = int(num1) + int(num2)
+print(num3)
+print(type(num3))
+
