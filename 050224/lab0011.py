@@ -1,8 +1,22 @@
-#Table of 2
+# Literals
+# Operations
+# Conditions
+# Loops
 
-num = 2
-print(f"{num}*1={num}")
-print(f"{num}*2={num*2}")
-print(f"{num}*3={num*3}")
-print(f"{num}*4={num*4}")
-print(f"{num}*5={num*5}")
+# Boolean
+# Data Type = True and False
+
+is_rakesh_married = True
+
+# Literals
+name = "Rakesh"
+age = 39
+pi = 3.14
+char = 'C'
+print(type(char))
+is_married = True
+have_plane = None
+my_list = []
+my_set = {}
+
+
